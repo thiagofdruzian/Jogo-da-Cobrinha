@@ -1,6 +1,7 @@
 A snake game made in Python, completely in terminal mode, without external graphical libraries.
 
 Controls
+
 W = Up
 S = Down
 A = Left
