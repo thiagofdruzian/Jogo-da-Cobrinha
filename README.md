@@ -1,25 +1,18 @@
-# 🐍 Jogo da Cobrinha (Snake) — Para TERMINAL!!!
+A snake game made in Python, completely in terminal mode, without external graphical libraries.
 
-Um jogo da cobrinha feito em **Python**, totalmente em **modo terminal**, sem bibliotecas gráficas externas.
+Controls
+W = Up
+S = Down
+A = Left
+D = Right
+X = Quit the game
 
-## Controles
+Requirements
+Python 3.6 or higher
 
-- `W` = Cima
-- `S` = Baixo
-- `A` = Esquerda
-- `D` = Direita
-- `X` = Encerrar o jogo
+How to play??
+Clone this repository or download the file main.py.
+In the terminal, run:
+python main.py
 
-## Requisitos
-
-- Python 3.6 ou superior
-
-## Como jogar??
-
-1. Clone este repositório ou baixe o arquivo `cobrinha.py`.
-2. No terminal, execute:
-
-```bash
-python cobrinha.py
-
-** Este projeto simples foi desenvolvido com o intuito de treinar lógica."# Snake-Game-" 
+** This simple project was developed with the purpose of practicing logic. **
